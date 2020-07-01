@@ -1,0 +1,53 @@
+body {
+    background-color: #f3f6f8;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+nav {
+    background-color: #0a7f68;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.navbar-brand {
+    font-family: "Fredoka One";
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.bg-green {
+    background-color: #0a7f68;
+}
+
+.blog-text {
+    font-family: Roboto;
+}
+
+.paragraph {
+    line-height: 30px;
+}
+
+.blog-title, .page-title {
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
+.blog-title-link {
+    font-family: "Open Sans";
+    color: #0a7f68;
+}
+
+a:hover.blog-title-link  {
+    color: #1abc9c;
+    font-family: "Open Sans";
+    text-decoration: none;
+}
+
+.blog-date {
+    font-style: italic;
+    font-size: 14px;
+    color: dimgray;
+}
