@@ -20,7 +20,7 @@
 			  th:href="${rootpath}+'css/prettify-dark.css'" rel="stylesheet"/>
 		<link th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')"
 			  th:href="${rootpath}+'css/styles.css'" rel="stylesheet"/>
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fredoka+One|Open+Sans|Roboto">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fredoka+One|Open+Sans:800|Roboto">
 
 
 		<!-- Fav and touch icons -->
